@@ -1,2 +1,2 @@
 # Number_base_converter
-simple number base converter using javascript and Bootstrap 5
+Simple number base converter using javascript and Bootstrap 5
